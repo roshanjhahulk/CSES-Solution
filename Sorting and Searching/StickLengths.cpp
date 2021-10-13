@@ -1,6 +1,7 @@
 
 #include <bits/stdc++.h>
 // #include<iostream.h>
+// mining coders
 
 using namespace std;
 
